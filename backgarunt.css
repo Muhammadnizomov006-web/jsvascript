@@ -1,0 +1,16 @@
+*{margin: 0;padding: o;}
+#backgarunt{
+    wedth: 850px;
+    height: 900px;
+    border: 1px solid rgb(39, 9, 9);
+    margin: 0 auto;
+    background-color: #351d1f;
+    background-image: url("haykal.jpg");
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+    background-position: right 10px bottom 50px;
+}
+#backgarunt h1{
+    font-weight: 100;
+    color: #cfcdb4;
+}

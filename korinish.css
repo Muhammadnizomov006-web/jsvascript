@@ -1,0 +1,19 @@
+#sayt{
+    width: 980px;
+    height: 600px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: green;
+}
+#yuqori{
+    background:yellow;
+    height: 80px;
+    border-bottom: 5px solid green;
+}
+#yuqori h1{
+    text-align: center;
+    line-height: 80px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-family: Algerian;
+}
